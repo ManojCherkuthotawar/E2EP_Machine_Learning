@@ -1,0 +1,29 @@
+SKU,Brand,Model,CPU,RAM,Primary_Storage,Secondary_Storage,GPU,Screen_Size,Resolution,Weight_kg,OS,Type,Battery_Hours,Touchscreen
+LTP00001,Avita,Notebook,i5-11400H,8GB,256GB SSD,None,Integrated,14,FHD,1.5,Windows 11,Notebook,5.5,No
+LTP00002,Microsoft,Notebook,Ryzen 7 5700U,16GB,256GB SSD,None,MX550 2GB,14,FHD,1.8,Windows 11,Notebook,5.8,No
+LTP00003,HP,Netbook,i3-1215U,8GB,512GB HDD,None,MX550 2GB,11.6,FHD,1.1,macOS,Netbook,8.2,No
+LTP00004,Apple,Ultrabook,Apple M1,4GB,256GB SSD,None,Integrated,13.3,Retina,1.9,macOS,Ultrabook,17.2,No
+LTP00005,Apple,Notebook,Apple M1 Pro,8GB,512GB SSD,None,Integrated,14,Retina,2,macOS,Notebook,13,No
+LTP00006,MSI,Notebook,i9-12900H,8GB,256GB SSD,None,Integrated,15.6,FHD,1.7,macOS,Notebook,9.7,No
+LTP00007,Avita,Ultrabook,Ryzen 7 5800H,8GB,1TB SSD,None,MX550 2GB,14,FHD,1.4,Windows 11,Ultrabook,7.9,No
+LTP00008,Lenovo,Ultrabook,i5-1135G7,8GB,256GB SSD,None,Integrated,14,FHD,1.4,Windows 10,Ultrabook,8,No
+LTP00009,Microsoft,Gaming Series,i5-12500H,32GB,1TB SSD,1TB HDD,RTX 4060 8GB,16,FHD,2.3,Windows 10,Gaming Series,4.4,No
+LTP00010,Acer,Business Series,i7-1255U,8GB,2TB SSD,None,GTX 1650 4GB,14,HD,2.1,Windows 10,Business Series,7.7,No
+LTP00011,Dell,Ultrabook,Ryzen 9 5900HS,16GB,512GB SSD,None,Integrated,13.3,FHD,1.9,Windows 10,Ultrabook,5.4,No
+LTP00012,Microsoft,Gaming Series,i7-12700H,16GB,2TB SSD,1TB HDD,RTX 4050 6GB,16,4K,2.7,Linux,Gaming Series,5.3,No
+LTP00013,MSI,Business Series,Ryzen 5 5500U,16GB,512GB SSD,None,GTX 1650 4GB,15.6,FHD,1.9,Linux,Business Series,7.9,Yes
+LTP00014,Dell,Notebook,i3-1215U,16GB,512GB SSD,None,Integrated,14,FHD,2.1,macOS,Notebook,9.4,No
+LTP00015,Samsung,Gaming Series,i7-12700H,32GB,1TB SSD,512GB HDD,GTX 1650 4GB,16,QHD,2,Windows 10,Gaming Series,5,No
+LTP00016,Infinix,Netbook,i3-1115G4,4GB,256GB HDD,None,Integrated,11.6,HD,1,Windows 11,Netbook,9.7,No
+LTP00017,Microsoft,Notebook,i3-1115G4,8GB,512GB SSD,None,Integrated,15.6,QHD,1.6,Windows 10,Notebook,5,No
+LTP00018,Samsung,Notebook,Ryzen 9 5900HS,8GB,256GB SSD,None,Integrated,14,FHD,1.5,Windows 11,Notebook,7.9,No
+LTP00019,Lenovo,Notebook,Ryzen 9 5900HX,4GB,256GB SSD,None,Integrated,14,FHD,2.3,Windows 10,Notebook,7.8,No
+LTP00020,HP,Netbook,Ryzen 3 3250U,8GB,256GB SSD,None,MX550 2GB,13.3,HD,1.1,DOS,Netbook,8.7,No
+LTP00021,HP,Notebook,i5-1235U,16GB,256GB SSD,None,Integrated,14,FHD,1.8,Windows 10,Notebook,5.8,No
+LTP00022,Realme,Business Series,Ryzen 9 5900HX,16GB,1TB SSD,1TB HDD,GTX 1650 4GB,14,QHD,1.6,Windows 10,Business Series,5.6,No
+LTP00023,Acer,Notebook,i7-12700H,16GB,512GB SSD,None,Integrated,15.6,QHD,2.2,macOS,Notebook,5.5,No
+LTP00024,Dell,Netbook,i3-1115G4,8GB,512GB HDD,None,Integrated,11.6,HD,1.5,macOS,Netbook,8.8,No
+LTP00025,Apple,Ultrabook,Apple M2,8GB,256GB SSD,None,Integrated,13.3,Retina,1.9,macOS,Ultrabook,13.3,No
+LTP00026,Microsoft,Gaming Series,Ryzen 7 5800H,32GB,512GB SSD,1TB HDD,RTX 3050 4GB,15.6,FHD,2.7,Windows 11,Gaming Series,5.3,No
+LTP00027,Infinix,Gaming Series,i9-12900H,16GB,512GB SSD,1TB HDD,RTX 4060 8GB,15.6,FHD,2.7,Windows 11,Gaming Series,4,No
+LTP00028,ASUS,Notebook,i7-12700H,8GB,256GB SSD,512GB HDD,MX550 2GB,15.6,FHD,1.9,Linux,Notebook,8.4,No
